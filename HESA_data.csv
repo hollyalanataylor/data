@@ -1,0 +1,325 @@
+﻿year,subject,science_non-science,sex,total
+2013,(1) Medicine & dentistry,Science,Female,37855
+2013,(1) Medicine & dentistry,Science,Male,29465
+2013,(1) Medicine & dentistry,Science,Other,5
+2014,(1) Medicine & dentistry,Science,Female,37335
+2014,(1) Medicine & dentistry,Science,Male,28660
+2014,(1) Medicine & dentistry,Science,Other,5
+2015,(1) Medicine & dentistry,Science,Female,37420
+2015,(1) Medicine & dentistry,Science,Male,28120
+2015,(1) Medicine & dentistry,Science,Other,10
+2016,(1) Medicine & dentistry,Science,Female,37430
+2016,(1) Medicine & dentistry,Science,Male,27645
+2016,(1) Medicine & dentistry,Science,Other,35
+2017,(1) Medicine & dentistry,Science,Female,38340
+2017,(1) Medicine & dentistry,Science,Male,27475
+2017,(1) Medicine & dentistry,Science,Other,65
+2018,(1) Medicine & dentistry,Science,Female,40175
+2018,(1) Medicine & dentistry,Science,Male,27485
+2018,(1) Medicine & dentistry,Science,Other,100
+2013,(2) Subjects allied to medicine,Science,Female,217195
+2013,(2) Subjects allied to medicine,Science,Male,56035
+2013,(2) Subjects allied to medicine,Science,Other,15
+2014,(2) Subjects allied to medicine,Science,Female,218510
+2014,(2) Subjects allied to medicine,Science,Male,56815
+2014,(2) Subjects allied to medicine,Science,Other,20
+2015,(2) Subjects allied to medicine,Science,Female,226010
+2015,(2) Subjects allied to medicine,Science,Male,58895
+2015,(2) Subjects allied to medicine,Science,Other,25
+2016,(2) Subjects allied to medicine,Science,Female,229905
+2016,(2) Subjects allied to medicine,Science,Male,60770
+2016,(2) Subjects allied to medicine,Science,Other,95
+2017,(2) Subjects allied to medicine,Science,Female,227725
+2017,(2) Subjects allied to medicine,Science,Male,60160
+2017,(2) Subjects allied to medicine,Science,Other,180
+2018,(2) Subjects allied to medicine,Science,Female,229895
+2018,(2) Subjects allied to medicine,Science,Male,60325
+2018,(2) Subjects allied to medicine,Science,Other,230
+2013,(3) Biological sciences,Science,Female,126175
+2013,(3) Biological sciences,Science,Male,81370
+2013,(3) Biological sciences,Science,Other,15
+2014,(3) Biological sciences,Science,Female,128775
+2014,(3) Biological sciences,Science,Male,82570
+2014,(3) Biological sciences,Science,Other,20
+2015,(3) Biological sciences,Science,Female,134315
+2015,(3) Biological sciences,Science,Male,82965
+2015,(3) Biological sciences,Science,Other,30
+2016,(3) Biological sciences,Science,Female,142585
+2016,(3) Biological sciences,Science,Male,83730
+2016,(3) Biological sciences,Science,Other,85
+2017,(3) Biological sciences,Science,Female,149890
+2017,(3) Biological sciences,Science,Male,83900
+2017,(3) Biological sciences,Science,Other,180
+2018,(3) Biological sciences,Science,Female,156865
+2018,(3) Biological sciences,Science,Male,84565
+2018,(3) Biological sciences,Science,Other,325
+2013,(4) Veterinary science,Science,Female,4515
+2013,(4) Veterinary science,Science,Male,1420
+2013,(4) Veterinary science,Science,Other,0
+2014,(4) Veterinary science,Science,Female,4495
+2014,(4) Veterinary science,Science,Male,1405
+2014,(4) Veterinary science,Science,Other,0
+2015,(4) Veterinary science,Science,Female,5205
+2015,(4) Veterinary science,Science,Male,1570
+2015,(4) Veterinary science,Science,Other,0
+2016,(4) Veterinary science,Science,Female,5520
+2016,(4) Veterinary science,Science,Male,1625
+2016,(4) Veterinary science,Science,Other,0
+2017,(4) Veterinary science,Science,Female,6110
+2017,(4) Veterinary science,Science,Male,1745
+2017,(4) Veterinary science,Science,Other,0
+2018,(4) Veterinary science,Science,Female,6520
+2018,(4) Veterinary science,Science,Male,1875
+2018,(4) Veterinary science,Science,Other,5
+2013,(5) Agriculture & related subjects,Science,Female,11010
+2013,(5) Agriculture & related subjects,Science,Male,7350
+2013,(5) Agriculture & related subjects,Science,Other,0
+2014,(5) Agriculture & related subjects,Science,Female,11855
+2014,(5) Agriculture & related subjects,Science,Male,7350
+2014,(5) Agriculture & related subjects,Science,Other,0
+2015,(5) Agriculture & related subjects,Science,Female,11805
+2015,(5) Agriculture & related subjects,Science,Male,7220
+2015,(5) Agriculture & related subjects,Science,Other,0
+2016,(5) Agriculture & related subjects,Science,Female,11815
+2016,(5) Agriculture & related subjects,Science,Male,6835
+2016,(5) Agriculture & related subjects,Science,Other,5
+2017,(5) Agriculture & related subjects,Science,Female,11955
+2017,(5) Agriculture & related subjects,Science,Male,6715
+2017,(5) Agriculture & related subjects,Science,Other,10
+2018,(5) Agriculture & related subjects,Science,Female,12895
+2018,(5) Agriculture & related subjects,Science,Male,6410
+2018,(5) Agriculture & related subjects,Science,Other,15
+2013,(6) Physical sciences,Science,Female,36925
+2013,(6) Physical sciences,Science,Male,56385
+2013,(6) Physical sciences,Science,Other,10
+2014,(6) Physical sciences,Science,Female,37080
+2014,(6) Physical sciences,Science,Male,56660
+2014,(6) Physical sciences,Science,Other,15
+2015,(6) Physical sciences,Science,Female,38305
+2015,(6) Physical sciences,Science,Male,56590
+2015,(6) Physical sciences,Science,Other,30
+2016,(6) Physical sciences,Science,Female,39200
+2016,(6) Physical sciences,Science,Male,55925
+2016,(6) Physical sciences,Science,Other,45
+2017,(6) Physical sciences,Science,Female,40645
+2017,(6) Physical sciences,Science,Male,55010
+2017,(6) Physical sciences,Science,Other,65
+2018,(6) Physical sciences,Science,Female,41030
+2018,(6) Physical sciences,Science,Male,53725
+2018,(6) Physical sciences,Science,Other,85
+2013,(7) Mathematical sciences,Science,Female,16030
+2013,(7) Mathematical sciences,Science,Male,26195
+2013,(7) Mathematical sciences,Science,Other,5
+2014,(7) Mathematical sciences,Science,Female,15955
+2014,(7) Mathematical sciences,Science,Male,26440
+2014,(7) Mathematical sciences,Science,Other,5
+2015,(7) Mathematical sciences,Science,Female,16065
+2015,(7) Mathematical sciences,Science,Male,27080
+2015,(7) Mathematical sciences,Science,Other,10
+2016,(7) Mathematical sciences,Science,Female,16265
+2016,(7) Mathematical sciences,Science,Male,27580
+2016,(7) Mathematical sciences,Science,Other,35
+2017,(7) Mathematical sciences,Science,Female,16460
+2017,(7) Mathematical sciences,Science,Male,28080
+2017,(7) Mathematical sciences,Science,Other,35
+2018,(7) Mathematical sciences,Science,Female,17060
+2018,(7) Mathematical sciences,Science,Male,28805
+2018,(7) Mathematical sciences,Science,Other,45
+2013,(8) Computer science,Science,Female,15645
+2013,(8) Computer science,Science,Male,75920
+2013,(8) Computer science,Science,Other,10
+2014,(8) Computer science,Science,Female,16040
+2014,(8) Computer science,Science,Male,77170
+2014,(8) Computer science,Science,Other,20
+2015,(8) Computer science,Science,Female,16505
+2015,(8) Computer science,Science,Male,79735
+2015,(8) Computer science,Science,Other,20
+2016,(8) Computer science,Science,Female,17390
+2016,(8) Computer science,Science,Male,83710
+2016,(8) Computer science,Science,Other,45
+2017,(8) Computer science,Science,Female,18880
+2017,(8) Computer science,Science,Male,88305
+2017,(8) Computer science,Science,Other,65
+2018,(8) Computer science,Science,Female,21080
+2018,(8) Computer science,Science,Male,93535
+2018,(8) Computer science,Science,Other,120
+2013,(9) Engineering & technology,Science,Female,25580
+2013,(9) Engineering & technology,Science,Male,133405
+2013,(9) Engineering & technology,Science,Other,25
+2014,(9) Engineering & technology,Science,Female,26955
+2014,(9) Engineering & technology,Science,Male,134340
+2014,(9) Engineering & technology,Science,Other,20
+2015,(9) Engineering & technology,Science,Female,27760
+2015,(9) Engineering & technology,Science,Male,135465
+2015,(9) Engineering & technology,Science,Other,30
+2016,(9) Engineering & technology,Science,Female,29025
+2016,(9) Engineering & technology,Science,Male,136085
+2016,(9) Engineering & technology,Science,Other,45
+2017,(9) Engineering & technology,Science,Female,30050
+2017,(9) Engineering & technology,Science,Male,134870
+2017,(9) Engineering & technology,Science,Other,55
+2018,(9) Engineering & technology,Science,Female,31580
+2018,(9) Engineering & technology,Science,Male,133515
+2018,(9) Engineering & technology,Science,Other,85
+2013,"(A) Architecture, building & planning",Science,Female,17185
+2013,"(A) Architecture, building & planning",Science,Male,31970
+2013,"(A) Architecture, building & planning",Science,Other,5
+2014,"(A) Architecture, building & planning",Science,Female,17365
+2014,"(A) Architecture, building & planning",Science,Male,30885
+2014,"(A) Architecture, building & planning",Science,Other,5
+2015,"(A) Architecture, building & planning",Science,Female,18285
+2015,"(A) Architecture, building & planning",Science,Male,31095
+2015,"(A) Architecture, building & planning",Science,Other,5
+2016,"(A) Architecture, building & planning",Science,Female,19350
+2016,"(A) Architecture, building & planning",Science,Male,31905
+2016,"(A) Architecture, building & planning",Science,Other,10
+2017,"(A) Architecture, building & planning",Science,Female,20475
+2017,"(A) Architecture, building & planning",Science,Male,33130
+2017,"(A) Architecture, building & planning",Science,Other,15
+2018,"(A) Architecture, building & planning",Science,Female,21330
+2018,"(A) Architecture, building & planning",Science,Male,33995
+2018,"(A) Architecture, building & planning",Science,Other,20
+2013,(B) Social studies,Non-Science,Female,131100
+2013,(B) Social studies,Non-Science,Male,79450
+2013,(B) Social studies,Non-Science,Other,30
+2014,(B) Social studies,Non-Science,Female,130585
+2014,(B) Social studies,Non-Science,Male,77380
+2014,(B) Social studies,Non-Science,Other,35
+2015,(B) Social studies,Non-Science,Female,135185
+2015,(B) Social studies,Non-Science,Male,78910
+2015,(B) Social studies,Non-Science,Other,50
+2016,(B) Social studies,Non-Science,Female,139915
+2016,(B) Social studies,Non-Science,Male,81685
+2016,(B) Social studies,Non-Science,Other,115
+2017,(B) Social studies,Non-Science,Female,145030
+2017,(B) Social studies,Non-Science,Male,84155
+2017,(B) Social studies,Non-Science,Other,175
+2018,(B) Social studies,Non-Science,Female,151150
+2018,(B) Social studies,Non-Science,Male,86080
+2018,(B) Social studies,Non-Science,Other,250
+2013,(C) Law,Non-Science,Female,54015
+2013,(C) Law,Non-Science,Male,35200
+2013,(C) Law,Non-Science,Other,15
+2014,(C) Law,Non-Science,Female,53555
+2014,(C) Law,Non-Science,Male,34035
+2014,(C) Law,Non-Science,Other,15
+2015,(C) Law,Non-Science,Female,54720
+2015,(C) Law,Non-Science,Male,33925
+2015,(C) Law,Non-Science,Other,20
+2016,(C) Law,Non-Science,Female,55985
+2016,(C) Law,Non-Science,Male,33715
+2016,(C) Law,Non-Science,Other,35
+2017,(C) Law,Non-Science,Female,58455
+2017,(C) Law,Non-Science,Male,33665
+2017,(C) Law,Non-Science,Other,50
+2018,(C) Law,Non-Science,Female,61310
+2018,(C) Law,Non-Science,Male,33885
+2018,(C) Law,Non-Science,Other,65
+2013,(D) Business & administrative studies,Non-Science,Female,165175
+2013,(D) Business & administrative studies,Non-Science,Male,171405
+2013,(D) Business & administrative studies,Non-Science,Other,20
+2014,(D) Business & administrative studies,Non-Science,Female,161450
+2014,(D) Business & administrative studies,Non-Science,Male,165330
+2014,(D) Business & administrative studies,Non-Science,Other,20
+2015,(D) Business & administrative studies,Non-Science,Female,162160
+2015,(D) Business & administrative studies,Non-Science,Male,164310
+2015,(D) Business & administrative studies,Non-Science,Other,30
+2016,(D) Business & administrative studies,Non-Science,Female,164955
+2016,(D) Business & administrative studies,Non-Science,Male,168415
+2016,(D) Business & administrative studies,Non-Science,Other,50
+2017,(D) Business & administrative studies,Non-Science,Female,170240
+2017,(D) Business & administrative studies,Non-Science,Male,172650
+2017,(D) Business & administrative studies,Non-Science,Other,80
+2018,(D) Business & administrative studies,Non-Science,Female,176710
+2018,(D) Business & administrative studies,Non-Science,Male,181665
+2018,(D) Business & administrative studies,Non-Science,Other,105
+2013,(E) Mass communications & documentation,Non-Science,Female,29065
+2013,(E) Mass communications & documentation,Non-Science,Male,20450
+2013,(E) Mass communications & documentation,Non-Science,Other,5
+2014,(E) Mass communications & documentation,Non-Science,Female,28775
+2014,(E) Mass communications & documentation,Non-Science,Male,19825
+2014,(E) Mass communications & documentation,Non-Science,Other,10
+2015,(E) Mass communications & documentation,Non-Science,Female,29330
+2015,(E) Mass communications & documentation,Non-Science,Male,19970
+2015,(E) Mass communications & documentation,Non-Science,Other,15
+2016,(E) Mass communications & documentation,Non-Science,Female,29820
+2016,(E) Mass communications & documentation,Non-Science,Male,20560
+2016,(E) Mass communications & documentation,Non-Science,Other,40
+2017,(E) Mass communications & documentation,Non-Science,Female,30360
+2017,(E) Mass communications & documentation,Non-Science,Male,20935
+2017,(E) Mass communications & documentation,Non-Science,Other,65
+2018,(E) Mass communications & documentation,Non-Science,Female,30390
+2018,(E) Mass communications & documentation,Non-Science,Male,20855
+2018,(E) Mass communications & documentation,Non-Science,Other,60
+2013,(F) Languages,Non-Science,Female,81165
+2013,(F) Languages,Non-Science,Male,36485
+2013,(F) Languages,Non-Science,Other,10
+2014,(F) Languages,Non-Science,Female,77375
+2014,(F) Languages,Non-Science,Male,33945
+2014,(F) Languages,Non-Science,Other,20
+2015,(F) Languages,Non-Science,Female,76070
+2015,(F) Languages,Non-Science,Male,32255
+2015,(F) Languages,Non-Science,Other,35
+2016,(F) Languages,Non-Science,Female,75615
+2016,(F) Languages,Non-Science,Male,31365
+2016,(F) Languages,Non-Science,Other,60
+2017,(F) Languages,Non-Science,Female,73375
+2017,(F) Languages,Non-Science,Male,30005
+2017,(F) Languages,Non-Science,Other,165
+2018,(F) Languages,Non-Science,Female,70780
+2018,(F) Languages,Non-Science,Male,28330
+2018,(F) Languages,Non-Science,Other,255
+2013,(G) Historical & philosophical studies,Non-Science,Female,47655
+2013,(G) Historical & philosophical studies,Non-Science,Male,41955
+2013,(G) Historical & philosophical studies,Non-Science,Other,10
+2014,(G) Historical & philosophical studies,Non-Science,Female,46070
+2014,(G) Historical & philosophical studies,Non-Science,Male,40235
+2014,(G) Historical & philosophical studies,Non-Science,Other,25
+2015,(G) Historical & philosophical studies,Non-Science,Female,45750
+2015,(G) Historical & philosophical studies,Non-Science,Male,39590
+2015,(G) Historical & philosophical studies,Non-Science,Other,40
+2016,(G) Historical & philosophical studies,Non-Science,Female,46260
+2016,(G) Historical & philosophical studies,Non-Science,Male,39110
+2016,(G) Historical & philosophical studies,Non-Science,Other,85
+2017,(G) Historical & philosophical studies,Non-Science,Female,46055
+2017,(G) Historical & philosophical studies,Non-Science,Male,37910
+2017,(G) Historical & philosophical studies,Non-Science,Other,155
+2018,(G) Historical & philosophical studies,Non-Science,Female,44930
+2018,(G) Historical & philosophical studies,Non-Science,Male,36785
+2018,(G) Historical & philosophical studies,Non-Science,Other,245
+2013,(H) Creative arts & design,Non-Science,Female,106390
+2013,(H) Creative arts & design,Non-Science,Male,62440
+2013,(H) Creative arts & design,Non-Science,Other,30
+2014,(H) Creative arts & design,Non-Science,Female,105840
+2014,(H) Creative arts & design,Non-Science,Male,61030
+2014,(H) Creative arts & design,Non-Science,Other,60
+2015,(H) Creative arts & design,Non-Science,Female,108560
+2015,(H) Creative arts & design,Non-Science,Male,61175
+2015,(H) Creative arts & design,Non-Science,Other,90
+2016,(H) Creative arts & design,Non-Science,Female,113275
+2016,(H) Creative arts & design,Non-Science,Male,62235
+2016,(H) Creative arts & design,Non-Science,Other,190
+2017,(H) Creative arts & design,Non-Science,Female,115455
+2017,(H) Creative arts & design,Non-Science,Male,62685
+2017,(H) Creative arts & design,Non-Science,Other,275
+2018,(H) Creative arts & design,Non-Science,Female,117860
+2018,(H) Creative arts & design,Non-Science,Male,63530
+2018,(H) Creative arts & design,Non-Science,Other,435
+2013,(I) Education,Non-Science,Female,131450
+2013,(I) Education,Non-Science,Male,41555
+2013,(I) Education,Non-Science,Other,20
+2014,(I) Education,Non-Science,Female,124960
+2014,(I) Education,Non-Science,Male,39405
+2014,(I) Education,Non-Science,Other,30
+2015,(I) Education,Non-Science,Female,119220
+2015,(I) Education,Non-Science,Male,36905
+2015,(I) Education,Non-Science,Other,25
+2016,(I) Education,Non-Science,Female,115560
+2016,(I) Education,Non-Science,Male,35455
+2016,(I) Education,Non-Science,Other,40
+2017,(I) Education,Non-Science,Female,112490
+2017,(I) Education,Non-Science,Male,32895
+2017,(I) Education,Non-Science,Other,60
+2018,(I) Education,Non-Science,Female,111050
+2018,(I) Education,Non-Science,Male,31675
+2018,(I) Education,Non-Science,Other,105
